@@ -1,0 +1,57 @@
+ .images img{
+  border: 2px solid pink;
+  border-radius: 80px;
+  height: 300px;
+  width: 400px;
+  margin-left: 300px;
+}
+
+footer {
+ height: 20px;
+ color: magenta;
+ background-color:#E9967A	;
+ text-align: center;
+ padding: 20px;
+ font size: 23;
+}
+
+body{
+  font-family: 'Merienda', cursive;
+  background-color:#556B2F ;
+}
+
+ #images{
+   text-align: center;
+ }
+
+h3{
+  font-size: 20px;
+  text-align: center;
+}
+
+h2{
+  font-size: 15px
+  text-align: left;
+}
+
+h1{
+  font-size: 32px;
+  text-align: center;
+}
+
+
+h1,h3,h4 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+
+h4 {
+  font-size: 25px;
+text-align: center;
+}
+
+#scratch {
+  border: 2px solid black;
+  border-radius: 80px 80px;
+}
